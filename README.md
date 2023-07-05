@@ -90,6 +90,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Competitive Programming
 
 - [TeamReference](https://github.com/ivangalban/TeamReference): Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good Latex template to develop your own team reference.
+- [TeamReference](https://github.com/Alejo2075/ICPC-Notebook.git): Java Team Terefence fpr Competitive Programming.
 
 ## Docker
 
